@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoSoSammy
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently studying HTML and CSS
+- 🌱 I’m currently studying CSS and JavaScript
 
 <!---
 SoSoSammy/SoSoSammy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
