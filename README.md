@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoSoSammy
-- 👀 I’m interested in full-stack web development
+- 👀 I’m interested in front-end development, full-stack development, and software engineering
 - 🌱 I’m currently studying React
 
 <!---
